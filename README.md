@@ -10,9 +10,7 @@
 - 🌱 I’m currently learning **Next.js and TypeScript**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-<img src="https://wakatime.com/share/@c6f24b18-dc8e-4105-b084-7ecfe3271165/6be99f00-c6b1-4f50-956b-c64b7b9f5a4c.svg" height="400"/>
-<p>
+<figure><embed src="https://wakatime.com/share/@9d107576-278f-425a-8f99-a7b0241c4779/8b29aac5-308e-4906-8f6a-893bba4a2f6f.svg"></embed></figure>
 <p align="left">
 <a href="https://www.linkedin.com/in/david-abruzzo-39a145101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-abruzzo-39a145101/" height="30" width="40" /></a>
 </p>
