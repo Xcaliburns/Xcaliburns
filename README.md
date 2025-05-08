@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xcaliburns" alt="Xcaliburns" /></a> </p>
 
-- 🌱 I’m currently learning **C#, .net, sqlserver, Entity Framework** I already have skills in **Unreal Engine,  Unity, React, Express, mysql** 
+- 🌱 Open To Work **C#, .net, sqlserver, Entity Framework** I already have skills in **Unreal Engine,  Unity, React, Express, mysql** 
   and some others technologies
 <h3 align="left">Connect with me:</h3>
 <p><img src="https://wakatime.com/share/@9d107576-278f-425a-8f99-a7b0241c4779/6e57fd0f-387d-41e7-b438-782f32ac9e11.svg" heigth ="200"></p>
