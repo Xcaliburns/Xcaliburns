@@ -37,45 +37,10 @@
 
 ---
 
-## ⏱️ WakaTime (Coding Activity)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DavidAbruzzo&theme=radical" alt="wakatime" />
-</p>
+## ⏱️ WakaTime (Detailed Coding Activity)
 
----
+<!--START_SECTION:waka-->
 
-## 🧰 Tech Stack
-
-### 🎮 Game Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,blender" />
-</p>
-
-### 💻 Backend & Core Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-</p>
-
-### 🌐 Frontend & UI
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=blazor,html,css,js" />
-</p>
-
-### 🔧 Tools & Workflow
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,linux" />
-</p>
-
----
-
-## 🎯 Current Focus
-- Building reusable gameplay systems and dev tools  
-- Strengthening .NET full-stack skills (Blazor, ASP.NET, APIs)  
-- Creating stylized shaders and rendering effects  
-- Automating asset pipelines (spritesheets, VFX, tooling)
-
----
-
-## 📫 Contact
-- LinkedIn : www.linkedin.com/in/david-abruzzo-39a145101 
-- Email : davidabruzzogames@gmail.com 
+```txt
+<!-- Le contenu WakaTime sera automatiquement inséré ici -->
+<!--END_SECTION:waka-->
