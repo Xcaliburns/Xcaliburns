@@ -3,9 +3,15 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate web and game developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Xcaliburns&label=Profile%20views&color=0e75b6&style=flat" alt="Xcaliburns" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Xcaliburns&label=Profile%20views&color=0e75b6&style=flat" alt="Xcaliburns" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xcaliburns" alt="Xcaliburns" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Xcaliburns" alt="Xcaliburns" />
+  </a>
+</p>
 
 - 🌱 Open To Work **C#, .net, sqlserver, Entity Framework** I already have skills in **Unreal Engine,  Unity, React, Express, mysql** 
   and some others technologies
