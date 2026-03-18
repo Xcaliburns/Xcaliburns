@@ -8,10 +8,8 @@
 ---
 
 ## 🏆 GitHub Trophies
-<p align="left">
-  <[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-    <img src="https://github-profile-trophy.vercel.app/?username=Xcaliburns&theme=radical&margin-w=10&margin-h=10" alt="trophies" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TON_USERNAME&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
