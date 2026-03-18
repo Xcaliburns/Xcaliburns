@@ -9,7 +9,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TON_USERNAME&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Xcaliburns&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
